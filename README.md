@@ -1,2 +1,2 @@
-# academia2024
+# Academia2024
 Exemplo de repositório de código distirbuido
